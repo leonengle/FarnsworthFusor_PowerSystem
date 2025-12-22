@@ -1,4 +1,4 @@
-# Farnsworth_Fusor_PowerSystem
+# FarnsworthFusor_PowerSystem
 ## Overview
 Here we present a design for a 400W 120VrmsAC 60Hz -> 33kVDC Power Converter; to power an automated Farnsworth Fusor. Relevant Power Converter control I/Os are configured to be digitally accessible by a host computer to enable remote control & monitoring. 
 
