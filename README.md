@@ -21,7 +21,7 @@ Photos of the full assembly in Altium CAD software and current status of build:
 <img src="images/PCB1_Schematic_uC.png" width="600" /> 
 
 ### PCB - 2D & 3D View
-<img src="images/PCB1_2D.png" width="250" />  <img src="images/PCB1_3D.png" width="250" /> 
+<img src="images/PCB1_2D.png" width="500" />  <img src="images/PCB1_3D.png" width="350" /> 
 
 ## PCB2: 8x Voltage Multiplier, V&I Sense
 ### Top-Level Schematic
