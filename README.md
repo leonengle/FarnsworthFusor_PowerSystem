@@ -12,13 +12,13 @@ Photos of the full assembly in Altium CAD software and current status of build:
 
 ## PCB1: Passive Rectifier & 18kHz Inverter
 ### Top-Level Schematic
-<img src="images/PCB1_Schematic_Top.png" width="500" /> 
+<img src="images/PCB1_Schematic_Top.png" width="1000" /> 
 
 ### Rectifier & Inverter Schematic
-<img src="images/PCB1_Schematic_RI.png" width="500" /> 
+<img src="images/PCB1_Schematic_RI.png" width="1000" /> 
 
 ### Microcontroller Schematic
-<img src="images/PCB1_Schematic_uC.png" width="400" /> 
+<img src="images/PCB1_Schematic_uC.png" width="600" /> 
 
 ### PCB - 2D & 3D View
 <img src="images/PCB1_2D.png" width="250" />  <img src="images/PCB1_3D.png" width="250" /> 
