@@ -1,6 +1,8 @@
 # Farnsworth_Fusor_PowerSystem
 ## Contributors
-1) 
+[@crazyblock12](https://github.com/crazyblock12)
+[@crazyblock12](https://github.com/crazyblock12)
+[@crazyblock12](https://github.com/crazyblock12)
 ## Overview
 Here we present a design for a 400W 120VrmsAC 60Hz -> 33kVDC Power Converter; to power an automated Farnsworth Fusor. Relevant Power Converter control I/Os are configured to be digitally accessible by a host computer to enable remote control & monitoring. 
 
