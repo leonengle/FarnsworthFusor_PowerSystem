@@ -6,7 +6,7 @@ The power converter has four stages: a passive rectifier, an inverter (18kHz) dr
 
 Photos of the full assembly in Altium CAD software and current status of build:
 
-<img src="images/Assembly_3D.png" width="350" />  <img src="images/Assembly_Real.png" width="250" /> 
+<img src="images/Assembly_3D.png" width="350" />  <img src="images/Assembly_Real1.png" width="250" /> 
 
 ## PCB1: Passive Rectifier & 18kHz Inverter
 ### Top-Level Schematic
